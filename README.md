@@ -6,18 +6,20 @@ Both the boss and employees should have access to the management system to handl
 
 ![Logo](https://github.com/Ardesh1r/Sport-Complex-Staff-Dashboard/blob/main/screenshots/Screenshot-03.PNG?raw=true)
 
+
 This is a straightforward management dashboard for staff to log in and execute daily activities, including selling tickets and monthly packages, and taking customers' orders for buffet products.
 
 Staff can log in with their employee number and password.
 
+
 ![Logo](https://github.com/Ardesh1r/Sport-Complex-Staff-Dashboard/blob/main/screenshots/Screenshot-02.PNG?raw=true)
+
 
 The manager also can log in to his/her dashboard to track employees' performance, check number of sold tickets and packages, and manage crews.
 
-![Logo](https://github.com/Ardesh1r/Sport-Complex-Staff-Dashboard/blob/main/screenshots/Screenshot-01.PNG?raw=true)
+
 
 --------------------------------------
-![Logo](https://github.com/Ardesh1r/Today-app/blob/main/Logo.png?raw=true)
 
 
 The software was developed by Ardeshir Shojaei and presented as a Bachelor's degree thesis (final project).
@@ -37,6 +39,7 @@ Software features  :
 
 ✔️ Track employees' performance
 
+![Logo](https://github.com/Ardesh1r/Sport-Complex-Staff-Dashboard/blob/main/screenshots/Screenshot-04.PNG?raw=true)
 
 This software is coded using the following technologies:
 --------------------
@@ -53,3 +56,11 @@ This software is coded using the following technologies:
 ✔️ JavaScript
 
 ✔️ JQuery
+
+
+.
+.
+.
+![Logo](https://github.com/Ardesh1r/Sport-Complex-Staff-Dashboard/blob/main/screenshots/Screenshot-05.PNG?raw=true)
+
+![Logo](https://github.com/Ardesh1r/Sport-Complex-Staff-Dashboard/blob/main/screenshots/Screenshot-06.PNG?raw=true)
