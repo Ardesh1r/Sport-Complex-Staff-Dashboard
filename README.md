@@ -4,11 +4,11 @@ Each Sports Complex should have a management system in order to provide tailor-m
 
 Both the boss and employees should have access to the management system to handle tasks more efficiently.
 
-This is a straightforward management dashboard for staff to log in and execute daily activities, including selling tickets and monthly packages, taking customers' orders for buffet products.
+This is a straightforward management dashboard for staff to log in and execute daily activities, including selling tickets and monthly packages, and taking customers' orders for buffet products.
 
 Staff can log in with their employee number and password.
 
-The manager also can log in to his/her dashboard to track employees' performance, check sold tickets and packages, and manage crews.
+The manager also can log in to his/her dashboard to track employees' performance, check number of sold tickets and packages, and manage crews.
 
 --------------------------------------
 ![Logo](https://github.com/Ardesh1r/Today-app/blob/main/Logo.png?raw=true)
