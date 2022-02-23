@@ -1,8 +1,8 @@
 # Sport-Complex-Staff-Dashboard
 
-Each Sports Complex should have a management system in order to provide tailor-made service for their customers.
+Each Sports Complex should have a management system in order to provide tailor-made services for their customers.
 
-Both the boss and employees should have access to the management system.
+Both the boss and employees should have access to the management system to handle tasks more efficiently.
 
 This is a straightforward management dashboard for staff to log in and execute daily activities, including selling tickets and monthly packages, taking customers' orders for buffet products.
 
