@@ -1,4 +1,4 @@
-# Sport-Complex-Staff-Dashboard
+# Sport-Complex-Management-Dashboard
 
 Each Sports Complex should have a management system in order to provide tailor-made services for their customers.
 
